@@ -178,8 +178,6 @@ Currently following data types are not supported - but can be added if needed in
 - Slider
 - Password
 - Block
-- Table
-- StructuredTable
 - Geographic data types
 - Image data types
 
